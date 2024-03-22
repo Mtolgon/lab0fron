@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "IISSI2-IS-Frontend-Owner",
+    "slug": "IISSI2-IS-Frontend-Owner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

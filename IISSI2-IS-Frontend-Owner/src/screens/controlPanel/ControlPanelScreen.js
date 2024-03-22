@@ -1,10 +1,10 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-export default function RestaurantsScreen () {
+export default function ControlPanelScreenScreen () {
   return (
         <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-            <Text>Restaurants</Text>
+            <Text>ControlPanelScreenScreen</Text>
         </View>
   )
 }
